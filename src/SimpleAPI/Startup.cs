@@ -46,6 +46,7 @@ namespace SimpleAPI
             {
                 endpoints.MapControllers();
             });
+            
         }
     }
 }
